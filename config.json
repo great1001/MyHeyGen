@@ -1,0 +1,10 @@
+{
+    "DET_TRESH": 0.3,
+    "DIST_TRESH": 0.2,
+    "DB_NAME": "storage.db",
+    "HF_TOKEN": "",
+    "TS_APPID": "",
+    "TS_APPKEY": "",
+    "HUMAN_TRANS": 0,
+    "SPEAKER_NUM": 1
+}
