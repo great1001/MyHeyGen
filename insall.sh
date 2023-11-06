@@ -24,7 +24,7 @@ pip install cutlet
 pip install unidic-lite
 pip install face-alignment==1.3.4
 pip install ninja==1.10.2.3
-pip install dlib
+pip install dlib --verbose
 pip install librosa==0.9.2
 
 apt update
