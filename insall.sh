@@ -5,10 +5,10 @@ pip install onnxruntime
 pip install scenedetect
 pip install opencv-python
 pip install ultralytics
+pip install tensorflow==2.8.0
 pip install deepface
 pip install numpy==1.22.2
 pip install transformers
-pip install tensorflow==2.8.0
 pip install pydub
 pip install basicsr
 pip install facexlib
